@@ -6,13 +6,6 @@
 <a href="https://github.com/rogeriosandim/?tab=follow"><img align="center"src="https://img.shields.io/github/followers/rogeriosandim?label=Follow&style=social"/></a>
 </p>
 
-<p align='left'>
-<a href="https://www.linkedin.com/in/rogeriosandim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rogeriosandim" height="20" width="20"/></a>
-<a href="https://www.instagram.com/rogeriosandim_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rogeriosandim" height="20" width="20"/></a>
-<a href="https://fb.com/rogeriosandim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rogeriosandim" height="20" width="20"/></a>
-<a href="https://twitter.com/https://twitter.com/rogeriosandim_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rogeriosandim" height="20" width="20"/></a>
-</p>
-
 - 👨🏻‍💻 I’m currently working at
   **[FTI Consulting](https://www.fticonsulting.com/)**
 
@@ -31,4 +24,11 @@
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=rogeriosandim&show_icons=true" alt="rogeriosandim"/>
+</p>
+
+<p align='left'>
+<a href="https://www.linkedin.com/in/rogeriosandim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rogeriosandim" height="20" width="20"/></a>
+<a href="https://www.instagram.com/rogeriosandim_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rogeriosandim" height="20" width="20"/></a>
+<a href="https://fb.com/rogeriosandim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rogeriosandim" height="20" width="20"/></a>
+<a href="https://twitter.com/https://twitter.com/rogeriosandim_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rogeriosandim" height="20" width="20"/></a>
 </p>
