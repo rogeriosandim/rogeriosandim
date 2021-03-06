@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rogerio Sandim</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rogério Sandim</h1>
 <h3 align="center">A Software Developer enthusiastic about technology and a gamer on my free time.</h3>
 
 <p align="left">
