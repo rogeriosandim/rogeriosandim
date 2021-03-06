@@ -4,6 +4,9 @@
 <p align="left">
 <img align="center" src="https://komarev.com/ghpvc/?username=rogeriosandim" alt="rogeriosandim" /> 
 <a href="https://github.com/rogeriosandim/?tab=follow"><img align="center"src="https://img.shields.io/github/followers/rogeriosandim?label=Follow&style=social"/></a>
+</p>
+
+<p align='left'>
 <a href="https://www.linkedin.com/in/rogeriosandim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rogeriosandim" height="20" width="20"/></a>
 <a href="https://www.instagram.com/rogeriosandim_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rogeriosandim" height="20" width="20"/></a>
 <a href="https://fb.com/rogeriosandim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rogeriosandim" height="20" width="20"/></a>
