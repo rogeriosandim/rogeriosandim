@@ -7,7 +7,7 @@
 </p>
 
 - 👨🏻‍💻 I’m currently working at
-  **[FTI Consulting](https://www.fticonsulting.com/)**
+  **[Aphix Software](https://www.aphixsoftware.com/)**
 
 - 📫 How to reach me: **sandimroger@gmail.com**
 
